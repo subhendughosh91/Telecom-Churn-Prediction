@@ -56,7 +56,7 @@ The data dictionary is present in this repository and it contains meanings of ab
 The attributes containing 6, 7, 8, 9 as suffixes imply that those correspond to the months 6, 7, 8, 9 respectively.
 
 # Models Developed
-We have developed several models in this python notebook and among that the following models are finalized and ready for usage, listed in terms of Sensetivity scores. As per the business problem, instead of Accuracy, the model metric should be Sensitivity.
+We have developed several models in this python notebook and among that the following models are finalized and ready for usage, listed in terms of Sensitivity scores. As per the business problem, instead of Accuracy, the model metric should be Sensitivity.
 1. Logistic Regression
 2. Random Forest
 3. Decision Tree
